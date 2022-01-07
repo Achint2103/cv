@@ -4,9 +4,9 @@ As we all make cv to showcase our skillsets. This is one of that kind. Not so at
 
 Technologies Used
 
-•HTML
+• HTML
 
-•CSS
+• CSS
 
 Screenshots
 
